@@ -99,6 +99,11 @@ var Controls = {
     unit: UVC_PROCESSING_UNIT_ID,
     selector: 0x0B,
     size: 1
+  },
+  digitalZoom: {
+    unit: UVC_PROCESSING_UNIT_ID,
+    selector: 0x0E,
+    size: 2
   }
 };
 
